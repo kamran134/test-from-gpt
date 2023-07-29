@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "middleName": "Smith",
+        "birthDate": "1992-03-31T12:34:56.789Z",
+        "phone": 6630075,
+        "prefix": 51,
+        "email": "kazimi.msu@gmail.com",
+        "city": "Baku"
+    },
+    {
+        "id": 2,
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "middleName": "Miller",
+        "birthDate": "1995-03-03T12:34:56.789Z",
+        "phone": 6634575,
+        "prefix": 70,
+        "email": "test.msu@gmail.com",
+        "city": "Baku"
+    }
+]
